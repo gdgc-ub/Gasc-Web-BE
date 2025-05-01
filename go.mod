@@ -14,7 +14,6 @@ require (
 	github.com/redis/go-redis/v9 v9.7.0
 	github.com/sirupsen/logrus v1.9.3
 	golang.org/x/crypto v0.28.0
-	golang.org/x/net v0.28.0
 	golang.org/x/time v0.7.0
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
 )
@@ -38,6 +37,7 @@ require (
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasthttp v1.51.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
+	golang.org/x/net v0.28.0 // indirect
 	golang.org/x/sys v0.26.0 // indirect
 	golang.org/x/text v0.19.0 // indirect
 )
